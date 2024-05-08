@@ -10,11 +10,11 @@ Vintage Year: 2020
 
 CoU's Available: 2,119
 ________________
-Serial Number: 0001-002464-006886-UCR-CoU-IN-028-01012021-31122021
+Serial Number: 0001-002120-006886-UCR-CoU-IN-028-01012021-31122021
 
 Vintage Year: 2021
 
-CoU's Available: 4,423
+CoU's Available: 4,767
 ______________________________________________
 3 MW Small Scale Hydro Power project by HPDCAPL, India (A Govt. of Arunachal Pradesh Enterprise) UCR Member: CREDUCE TECHNOLOGIES PRIVATE LIMITED
 
