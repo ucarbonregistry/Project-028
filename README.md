@@ -2,20 +2,47 @@
 3 MW Small Scale Hydro Power project by HPDCAPL, India (A Govt. of Arunachal Pradesh Enterprise)
 The proposed project activity is promoted by Hydro Power Development Corporation of Arunachal Pradesh Limited (herein after called as project proponent PP). The proposed project activity is installation and operation of 2 Pelton Hydro Turbine Generators having individual capacity 1500 kW with aggregated installed capacity of 3.00 MW in Village - Jemeithang, in Tawang District of Arunachal Pradesh state of India.
 ________
-Credits Issued: 6886 CoUs VINTAGE: 2020-2021
+ISSUANCE STATUS
+________________
+MP-01: 2020-2021
 
+Credits Issued: 6886 CoUs 
+
+VINTAGE: 2020-2021
+____________
 Serial Number: 0001-000001-002119-UCR-CoU-IN-028-23012020-31122020
 
 Vintage Year: 2020
 
-CoU's Available: 2,119
+Quantity: 2,119
 ________________
 Serial Number: 0001-002120-006886-UCR-CoU-IN-028-01012021-31122021
 
 Vintage Year: 2021
 
-CoU's Available: 4,767
+Quantity: 4,767
 ______________________________________________
+MP-02: 2022-2023
+
+QTY: 10450
+
+DATE ISSUED: 19/06/2025
+___________
+Serial Number: 0002-002120-006454-UCR-CoU-IN-028-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 4335
+___________
+Serial Number: 0002-006455-012569-UCR-CoU-IN-028-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 6115
+____________
+
+
+
 3 MW Small Scale Hydro Power project by HPDCAPL, India (A Govt. of Arunachal Pradesh Enterprise) UCR Member: CREDUCE TECHNOLOGIES PRIVATE LIMITED
 
 UNIVERSAL CARBON REGISTRY (SINCE 11 JULY 2021) FIRST AND LARGEST VOLUNTARY CARBON REGISTRY IN INDIA India's Fastest, Low Cost and Simple Carbon & Water Credits Protocol
